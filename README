@@ -1,0 +1,11 @@
+Scrapes nothing nice to say for all of its images. 
+
+I used it to catch up on some comics on the plane. 
+
+You could probably use this for other stuff, too, 
+if you plug in the appropriate values.
+
+This requires the lxml Python module.
+
+Please don't use this to rip off Mitch Clem, since he could 
+likely use the ad revenue to offset the bandwidth costs.
